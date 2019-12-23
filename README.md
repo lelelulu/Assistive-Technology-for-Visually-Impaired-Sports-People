@@ -1,1 +1,3 @@
-# Assistive-Technology-for-Visually-Impaired-Sports-People
+## Code Instruction:
+* Use Android Studio to open frontend code.(Note: Since the large file(100 files)limitation, I only upload the main code which includes manifest.xml, java code, layout code)
+* Use command line to execute Main.py document.
